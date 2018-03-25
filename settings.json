@@ -1,8 +1,8 @@
 {
-  "DISCORD":      NDI3NDQ3NDA0ODE2NjI5NzYx.DZkq8w.ZYY2fqDTh2ikzYk_di5fyJMwj2Y,
-  "GENIUS":      SHBj0t0vMdy299MlZQSqZp2h66_jx4Rf-q7xd1MZngF6Bj8e-kJcIHx2NEcdWYwU,
-  "PREFIX":       !!!,
-  "SERVER":       Giveaway Nation,
-  "TEXTCHANNEL":  music-command,
-  "VOICECHANNEL": Music
+  "DISCORD":      [NDI3NDQ3NDA0ODE2NjI5NzYx.DZkq8w.ZYY2fqDTh2ikzYk_di5fyJMwj2Y],
+  "GENIUS":      [SHBj0t0vMdy299MlZQSqZp2h66_jx4Rf-q7xd1MZngF6Bj8e-kJcIHx2NEcdWYwU],
+  "PREFIX":       [!!!],
+  "SERVER":       [Giveaway Nation],
+  "TEXTCHANNEL":  [music-command],
+  "VOICECHANNEL": [Music]
 }
